@@ -2,7 +2,7 @@
   "name": "25-5-clock",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://monproweb.github.io/25-2-clock/",
+  "homepage": "https://monproweb.github.io/25-5-clock/",
   "dependencies": {
     "@primer/components": "^27.0.0",
     "@testing-library/jest-dom": "^5.11.4",

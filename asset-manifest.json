@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/25-2-clock/static/css/main.1636d38e.chunk.css",
+    "main.js": "/25-2-clock/static/js/main.11093776.chunk.js",
+    "main.js.map": "/25-2-clock/static/js/main.11093776.chunk.js.map",
+    "runtime-main.js": "/25-2-clock/static/js/runtime-main.b5b27d75.js",
+    "runtime-main.js.map": "/25-2-clock/static/js/runtime-main.b5b27d75.js.map",
+    "static/js/2.79aa9a65.chunk.js": "/25-2-clock/static/js/2.79aa9a65.chunk.js",
+    "static/js/2.79aa9a65.chunk.js.map": "/25-2-clock/static/js/2.79aa9a65.chunk.js.map",
+    "static/js/3.c34737db.chunk.js": "/25-2-clock/static/js/3.c34737db.chunk.js",
+    "static/js/3.c34737db.chunk.js.map": "/25-2-clock/static/js/3.c34737db.chunk.js.map",
+    "index.html": "/25-2-clock/index.html",
+    "static/css/main.1636d38e.chunk.css.map": "/25-2-clock/static/css/main.1636d38e.chunk.css.map",
+    "static/js/2.79aa9a65.chunk.js.LICENSE.txt": "/25-2-clock/static/js/2.79aa9a65.chunk.js.LICENSE.txt",
+    "static/media/undraw_dev_productivity.756140c6.svg": "/25-2-clock/static/media/undraw_dev_productivity.756140c6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b27d75.js",
+    "static/js/2.79aa9a65.chunk.js",
+    "static/css/main.1636d38e.chunk.css",
+    "static/js/main.11093776.chunk.js"
+  ]
+}
